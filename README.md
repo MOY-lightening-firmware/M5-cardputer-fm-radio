@@ -1,2 +1,33 @@
 # M5-cardputer-fm-radio
 (not web radıo)
+
+📦 Features
+FM tuning using TEA5767 module
+
+Frequency display on Cardputer screen
+
+Keyboard‑controlled tuning
+
+Compact and portable design
+
+Clean and simple I²C communication
+
+🛠️ Requirements
+M5Stack Cardputer
+
+TEA5767 FM Stereo Radio Module
+
+Jumper wires
+
+Arduino IDE or PlatformIO
+
+TEA5767 library (optional depending on your code)
+
+▶️ How to Use
+Upload the provided code to your Cardputer.
+
+Power the device and the TEA5767 module.
+
+Use the Cardputer keyboard to tune frequencies.
+
+Enjoy listening to FM radio.
