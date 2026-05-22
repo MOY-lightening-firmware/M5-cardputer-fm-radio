@@ -12,6 +12,11 @@ Compact and portable design
 
 Clean and simple I²C communication
 
+⬆️:-1.0 mhz
+➡️:+0.1 mhz
+⬇️:+1.0 mhz
+⬅️:-0.1 mhz
+
 🛠️ Requirements
 M5Stack Cardputer
 
