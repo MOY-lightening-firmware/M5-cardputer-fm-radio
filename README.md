@@ -34,5 +34,5 @@ Enjoy listening to FM radio.
 
 TEA5767 FM Stereo Radio Module:
 
-<img width="38,6" height="35,5" alt="image" src="https://github.com/user-attachments/assets/1e96bcfa-5c3f-4a7e-93a5-30e3203081ad" />
+<img width="386" height="355" alt="image" src="https://github.com/user-attachments/assets/1e96bcfa-5c3f-4a7e-93a5-30e3203081ad" />
 
